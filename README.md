@@ -9,19 +9,19 @@ To write a program to predict the price of the house and number of occupants in 
 
 ## Algorithm
 
-step 1.start
+ step 1. start the program.
 
-step 2. Importing necessary liberaries
+step 2. Load and preprocess the data (define features and target).
 
-step 3. Data preprocessing
+step 3. Split the dataset into training and testing sets.
 
-step 4. Spliting data int training and testing data
+step 4. Scale the features using StandardScaler.
 
-step 5. Performing SGD-Regressor
+step 5. Train the SGDRegressor model on the training set.
 
-step 6. Calculating error
+step 6. Evaluate the model on both training and testing sets using MSE or other metrics.
 
-step 7. end
+step 7. end the program.
 
 ## Program:
 ```
